@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/mbaroncini/github_ci/compare/v1.0.0...v2.0.0) (2023-09-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Major release
+
+### Features
+
+* Major release ([78bcb33](https://github.com/mbaroncini/github_ci/commit/78bcb33ae61ff83c5ffad7c8f3de7298a03d9f4f))
+* Update readme ([c555e59](https://github.com/mbaroncini/github_ci/commit/c555e594994d09e4064c8e69c0b046b5b3a8fbf6))
+
 ## 1.0.0 (2023-09-13)
 
 
