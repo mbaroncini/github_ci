@@ -12,8 +12,13 @@ Nello specifico, il metodo CI/CD introduce l'automazione costante e il monitorag
 
 - [Github actions marketplace](https://github.com/marketplace?query=sort%3Apopularity-desc&type=actions)
 - [Github Workflow Sintax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
-- [Google release please Github action](https://github.com/marketplace/actions/release-please-action)
 
 ### A Github action deploy example: Github pages
 
+- [Create a github page site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
 ### A Github action example: Release please, a changelog generator
+
+- [Google release please Github action](https://github.com/marketplace/actions/release-please-action)
+- [Permessi actions](https://github.com/mbaroncini/github_ci/settings/actions)
+- [Convetional commits](https://www.conventionalcommits.org/en/v1.0.0/)
