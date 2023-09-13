@@ -1,0 +1,17 @@
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: Make a release
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      # https://github.com/marketplace/actions/release-please-action
+      - uses: google-github-actions/release-please-action@v3
