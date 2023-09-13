@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.0](https://github.com/mbaroncini/github_ci/compare/v2.0.0...v2.1.0) (2023-09-13)
+
+
+### Features
+
+* Add workflow budge ([9164039](https://github.com/mbaroncini/github_ci/commit/9164039ca6b137530ca71b21b02d743c7e5516b1))
+* Add workflow budge ([82d3c09](https://github.com/mbaroncini/github_ci/commit/82d3c092113c27fe40a8f4f16291b6d2d7612cb6))
+
 ## [2.0.0](https://github.com/mbaroncini/github_ci/compare/v1.0.0...v2.0.0) (2023-09-13)
 
 
