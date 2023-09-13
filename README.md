@@ -2,6 +2,9 @@
 
 ### CI/CD in breve e come usarla su Github
 
+[![Pages build](https://github.com/mbaroncini/github_ci/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/mbaroncini/github_ci/actions/workflows/pages/pages-build-deployment)
+[![Make a release](https://github.com/mbaroncini/github_ci/actions/workflows/release_please.yml/badge.svg)](https://github.com/mbaroncini/github_ci/actions/workflows/release_please.yml)
+
 ---
 
 ## Cosa significa: Continuous Integration / Continuous Delivery
