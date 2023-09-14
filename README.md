@@ -1,3 +1,28 @@
+---
+theme: gaia
+class:
+  - lead
+  - invert
+footer: "![boolean](img/boolean.png)"
+auto-scaling: true
+style: |
+  p {
+    font-size: 0.7em
+  }
+  a {
+    font-size: 0.6em
+  }
+  ul {
+    margin: 0;
+  }
+  footer img {
+    width: 200px;
+  }
+  footer {
+    text-align: right;
+  }
+---
+
 # CI/CD on Github
 
 ### CI/CD in breve e come usarla su Github
@@ -8,6 +33,9 @@
 ---
 
 ## Cosa significa: Continuous Integration / Continuous Delivery
+
+<!-- _class: lead gaia -->
+<!-- fit -->
 
 "CI/CD è un metodo per la distribuzione frequente delle app ai clienti, che prevede l'introduzione dell'automazione nelle varie fasi di sviluppo applicativo. Si basa principalmente sui concetti di integrazione, distribuzione e deployment continui. L'approccio CI/CD supera le difficoltà legate all'integrazione di nuovo codice, una situazione così problematica per i team operativi e di sviluppo da essere denominata "inferno dell'integrazione"."
 
@@ -33,6 +61,8 @@
 
 ## A Github action deploy example: Github pages
 
+<!-- _class: lead gaia -->
+
 - [Create a github page site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 - [Github pages settings](https://github.com/mbaroncini/github_ci/settings/pages)
 
@@ -48,5 +78,7 @@
 ---
 
 ## Credits
+
+<!-- _class: lead -->
 
 - [Marp CLI](https://github.com/marp-team/marp-cli)
