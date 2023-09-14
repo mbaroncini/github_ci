@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/mbaroncini/github_ci/compare/v2.2.0...v2.3.0) (2023-09-14)
+
+
+### Features
+
+* Update README.md ([f9f411d](https://github.com/mbaroncini/github_ci/commit/f9f411d2542f3cd70140c3a5c4d6859d975e9574))
+
 ## [2.2.0](https://github.com/mbaroncini/github_ci/compare/v2.1.0...v2.2.0) (2023-09-14)
 
 
