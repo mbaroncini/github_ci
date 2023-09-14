@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/mbaroncini/github_ci/compare/v2.1.0...v2.2.0) (2023-09-14)
+
+
+### Features
+
+* Added some theming ([e56c51f](https://github.com/mbaroncini/github_ci/commit/e56c51f33eb14643ac6b5994647ffad38cfeecb1))
+
 ## [2.1.0](https://github.com/mbaroncini/github_ci/compare/v2.0.0...v2.1.0) (2023-09-13)
 
 
