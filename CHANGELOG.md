@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://github.com/mbaroncini/github_ci/compare/v2.4.0...v2.5.0) (2023-09-29)
+
+
+### Features
+
+* Update index.html ([faf422e](https://github.com/mbaroncini/github_ci/commit/faf422e5cf005936576e67e2bd71722b409abeee))
+
 ## [2.4.0](https://github.com/mbaroncini/github_ci/compare/v2.3.0...v2.4.0) (2023-09-29)
 
 
