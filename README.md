@@ -38,6 +38,8 @@ style: |
 
 "CI/CD è un metodo per la distribuzione frequente delle app ai clienti, che prevede l'introduzione dell'automazione nelle varie fasi di sviluppo applicativo. Si basa principalmente sui concetti di integrazione, distribuzione e deployment continui. L'approccio CI/CD supera le difficoltà legate all'integrazione di nuovo codice, una situazione così problematica per i team operativi e di sviluppo da essere denominata "inferno dell'integrazione"."
 
+bla bla bla
+
 ![devops](img/devops.png)
 
 \*source: [redhat.com](https://www.redhat.com/it/topics/devops/what-is-ci-cd)
