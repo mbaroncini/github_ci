@@ -3,7 +3,6 @@ theme: gaia
 class:
   - lead
   - invert
-footer: "![boolean](img/boolean.png)"
 auto-scaling: true
 style: |
   p {
@@ -32,7 +31,7 @@ style: |
 
 ---
 
-## Cosa significa: Continuous Integration / Continuous Delivery
+## Cosa significa "Continuous Integration / Continuous Delivery(Development)"
 
 <!-- _class: lead gaia -->
 <!-- fit -->
@@ -45,7 +44,7 @@ style: |
 
 ---
 
-## Github actions
+## Github Actions
 
 "GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub. Make code reviews, branch management, and issue triaging work the way you want."
 
@@ -54,8 +53,22 @@ style: |
 - [Github Workflow Sintax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 
 ![pipeline](img/pipeline.png)
-blablabla
+
 \*source: [github.com](https://github.com/features/actions)
+
+---
+
+## Github Actions more deeply
+
+Ci sono essenzialmente 3 tipi di Github actions:
+
+- Docker container ( + consistente | - veloce )
+- Javascript ( compatibile con tutti gli OS | + facile [creare custom actions](https://github.com/actions/toolkit) )
+- Composite Actions( + actions in una sola [esempio](https://docs.github.com/en/actions/creating-actions/creating-a-composite-action))
+
+![github actions](img/github_actions.png)
+
+\*source: [github.com](https://docs.github.com/en/actions/creating-actions/about-custom-actions)
 
 ---
 
@@ -65,8 +78,6 @@ blablabla
 
 - [Create a github page site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 - [Github pages settings](https://github.com/mbaroncini/github_ci/settings/pages)
-TEEEEEST
-
 
 ---
 
