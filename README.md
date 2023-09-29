@@ -60,10 +60,16 @@ style: |
 
 ## Github Actions more deeply
 
+<style scoped>
+li {
+   font-size: 0.8rem;
+}
+</style>
+
 Ci sono essenzialmente 3 tipi di Github actions:
 
-- Docker container ( + consistente | - veloce )
-- Javascript ( compatibile con tutti gli OS | + facile [creare custom actions](https://github.com/actions/toolkit) )
+- Docker container ( + consistente | - veloce | non è compatibile con tutti gli OS )
+- Javascript ( + facile [creare custom actions](https://github.com/actions/toolkit) )
 - Composite Actions( + actions in una sola [esempio](https://docs.github.com/en/actions/creating-actions/creating-a-composite-action))
 
 ![github actions](img/github_actions.png)
