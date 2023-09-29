@@ -20,5 +20,3 @@ jobs:
           package-name: release-please-action
           pull-request-title-pattern: "release${component} ${version}"
           pull-request-header: ":robot: I have created a release. Changelog updated with this data:"
-          extra-files: |
-            config/app.php
