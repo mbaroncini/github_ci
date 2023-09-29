@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/mbaroncini/github_ci/compare/v2.3.0...v2.4.0) (2023-09-29)
+
+
+### Features
+
+* add a slide about the types of github actions ([d139315](https://github.com/mbaroncini/github_ci/commit/d13931506f8e7a08ed1105d2d870dc879ec3633c))
+
 ## [2.3.0](https://github.com/mbaroncini/github_ci/compare/v2.2.0...v2.3.0) (2023-09-14)
 
 
